@@ -1,0 +1,2 @@
+# Analysing-Network-Statistics-using-OPNET
+The given problem statement presents a scenario where we have to first build a first-floor network and then expand it to the second-floor. Both the individual networks have their own loads and hence their own unique datas. After expanding the network, a thorough analysis is done to compare and examine the observed results. Also an analysis is done to understand if the expansion will/will not cause the network to fall.
